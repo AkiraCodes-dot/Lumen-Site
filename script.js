@@ -65,7 +65,7 @@ window.addEventListener("mousemove", (e) => {
 
 // Contact form -> opens WhatsApp with the message filled in
 // CHANGE THIS to your number: country code + number, no + or spaces (India example: 919876543210)
-const WHATSAPP_NUMBER = "919999999999";
+const WHATSAPP_NUMBER = "9398875137";
 document.getElementById("form").addEventListener("submit", (e) => {
   e.preventDefault();
   const name = document.getElementById("name").value.trim();
